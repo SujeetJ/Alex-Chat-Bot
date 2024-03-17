@@ -1,0 +1,11 @@
+.User {
+  background-color: aquamarine;
+  color: black;
+  width: 45px;
+  height: 45px;
+  padding: 5px;
+  border-radius: 50px;
+  display: grid;
+  place-items: center;
+  border: 8px double white;
+}
